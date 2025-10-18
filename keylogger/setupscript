@@ -1,0 +1,35 @@
+1.pip install pynput
+
+
+2.pip3 install pynput
+
+python -m pip install pynput
+
+python keylogger.py
+
+pip --version
+
+cd C:\Users\admin\Desktop\keylogger
+
+ren pynput.py keylogger.py
+
+python keylogger.py
+
+cd C:\Users\admin\Desktop\keylogger
+python keylogger.py
+
+python C:\Users\admin\Desktop\keylogger\keylogger.py
+
+
+// para ma check yung files
+dir
+
+ls
+
+
+Get-ChildItem *.py
+
+
+// pampa run 
+
+python keylogger.py
